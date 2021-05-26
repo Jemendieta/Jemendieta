@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋
+### Hi there 👋
 
 - 🔭 I’m currently working on FrontEnd Development
 - 🌱 I’m currently learning JsvaScript
@@ -11,6 +11,6 @@
 - [Instagram](https://www.instagram.com/jorge_mendietall/)
 - [Facebook](https://web.facebook.com/JEMendieta86)
 - 😄 Pronouns: ...He
-- ⚡ Fun fact: ...I'm continue learning -->
+- ⚡ Fun fact: ...I'm continue learning
 
 ![Alt Text](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
